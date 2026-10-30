@@ -18,7 +18,13 @@
 - **Seoul Map:** 스타와 관련된 서울 매장을 지도에서 탐색하고 방문·추천·촬영 정보를 구분해 확인
 - **메뉴 탐색·주문 시연:** 카테고리 탐색·매장 저장, 옵션 선택·장바구니·모의 결제와 주문 상태 확인
 
-<img src="docs/design-review/home-mobile.png" alt="RoomBap 메인 화면" width="220"> <img src="docs/design-review/ai-trends-mobile.png" alt="공개 데모의 한국 유행 음식 안내" width="220">
+<table>
+  <tr>
+    <td><img src="docs/design-review/home-mobile.png" alt="RoomBap 메인 화면" width="220"></td>
+    <td><img src="docs/design-review/ai-trends-mobile.png" alt="공개 데모의 한국 유행 음식 안내" width="220"></td>
+    <td><img src="docs/design-review/seoul-map-mobile.png" alt="Star’s Pick·Seoul Map 탭과 서울 지도" width="220"></td>
+  </tr>
+</table>
 
 ## Project Details
 
