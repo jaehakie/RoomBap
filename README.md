@@ -12,10 +12,13 @@
 ## Project Result
 
 - **[RoomBap 서비스 실행링크](https://roombap.secretwasp34.chatgpt.site)**
-- 매장 **50개**·메뉴 **144개**를 공통 카탈로그로 관리하며 영어·일본어·중국어 취향 설정 지원
-- 실제 AI 추천·음식 설명·시연 주문 흐름 확인, 자동 검사 **241개 통과**
+- **AI 음식 추천:** 저장한 취향과 자연어 요청의 조건을 반영해 등록된 메뉴 탐색
+- **한국 유행 음식 안내:** 두바이 쫀득 쿠키·크로플 등 음식의 특징을 자료와 출처로 설명
+- **Star’s Pick:** K-pop·드라마·영화·예능에 등장하는 음식 이야기와 관련 메뉴 소개
+- **Seoul Map:** 스타와 관련된 서울 매장을 지도에서 탐색하고 방문·추천·촬영 정보를 구분해 확인
+- **메뉴 탐색·주문 시연:** 카테고리 탐색·매장 저장, 옵션 선택·장바구니·모의 결제와 주문 상태 확인
 
-<img src="docs/design-review/home-mobile.png" alt="RoomBap 메인 화면" width="220"> <img src="docs/design-review/ai-popup-mobile.png" alt="AI 추천 팝업" width="220">
+<img src="docs/design-review/home-mobile.png" alt="RoomBap 메인 화면" width="220"> <img src="docs/design-review/ai-trends-mobile.png" alt="공개 데모의 한국 유행 음식 안내" width="220">
 
 ## Project Details
 
