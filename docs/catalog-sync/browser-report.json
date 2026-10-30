@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "checks": [
+    "All 50 restaurants and 144 menu IDs, names, prices and options match the visible UI data",
+    "Live salad recommendation uses current menus; IDs and base prices match",
+    "Live curry recommendation uses current menus; IDs and base prices match",
+    "Live pizza recommendation uses current menus; IDs and base prices match",
+    "Trend explanation links to the actual newly listed Dubai cookie at 6800 KRW",
+    "Stale browser requests and stale successful responses require refresh instead of showing conflicting menus",
+    "Retired cart menu cannot enter checkout and remains available for the user to remove"
+  ],
+  "uncaughtErrors": [],
+  "catalogVersion": "9d6de8dd5beef6e60b901f72ec005b36da3f2e4ce0cde119dda4edafa8360774",
+  "restaurants": 50,
+  "menus": 144,
+  "preview": "http://127.0.0.1:8793"
+}

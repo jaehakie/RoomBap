@@ -1,0 +1,72 @@
+[
+  {
+    "storyId": "kpdh-seolleongtang",
+    "file": "assets/star-scenes/kpdh-seolleongtang.png",
+    "originalImageUrl": "https://cdn.imweb.me/upload/S20200810e5f4fd16f5809/f088d2d4c9e17.png",
+    "sourceUrl": "https://dbritz.kr/GeneralNews/?bmode=view&idx=166312712",
+    "credit": "Netflix / Sony Pictures Animation · via DBRITZ",
+    "checkedAt": "2026-10-29",
+    "sha256": "acbdca55ad7d7cb62702a68d2ea190406f4c622e9bc794686172f3664e224521",
+    "rights": "Copyright remains with the respective broadcaster / rights holder. Commercial reuse permission is not independently verified."
+  },
+  {
+    "storyId": "kpdh-corndog",
+    "file": "assets/star-scenes/kpdh-corndog.png",
+    "originalImageUrl": "https://dnm.nflximg.net/api/v6/a01MIaQTUgSJoLaS_OCn68Eg3hU/AAAAQXs548CBvK9a5Pf7wkcHw_A27UpTQYsFcwvXgVP6g2Os2owO4ic6FMrJq-798V9V_B3xJIxJau3vG7ZqpRehkKgLF51iz_2JyemkXrIstrv2vco5GA5ikXzARx2gnMbSwkv2Hck0NVvZoQLYuZCmctWL.png?r=b31",
+    "sourceUrl": "https://www.netflix.com/tudum/articles/kpop-demon-hunters-food-guide",
+    "credit": "Netflix / Sony Pictures Animation · Netflix Tudum",
+    "checkedAt": "2026-10-29",
+    "sha256": "95898c6087f7651c80b1eefb777be44fbe3d040ab27c5c8b11de8b38fdae083a",
+    "rights": "Copyright remains with the respective broadcaster / rights holder. Commercial reuse permission is not independently verified."
+  },
+  {
+    "storyId": "jinnys-kitchen-street-food",
+    "file": "assets/star-scenes/jinnys-street-food.jpg",
+    "originalImageUrl": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2023/04/28/74c9a1e6-09e7-492c-a22f-84b2766ac1ec.jpg",
+    "sourceUrl": "https://enews.imbc.com/News/RetrieveNewsInfo/380585",
+    "credit": "tvN · via iMBC Entertainment",
+    "checkedAt": "2026-10-29",
+    "sha256": "6a378efdc4bd857ca56f9fe1e9c186b6cb1d7b0a46bf31217cfff8ab73c47fc6",
+    "rights": "Copyright remains with the respective broadcaster / rights holder. Commercial reuse permission is not independently verified."
+  },
+  {
+    "storyId": "woo-gimbap",
+    "file": "assets/star-scenes/woo-gimbap.jpg",
+    "originalImageUrl": "https://ojsfile.ohmynews.com/STD_IMG_FILE/2022/0730/IE003028614_STD.jpg",
+    "sourceUrl": "https://www.ohmynews.com/NWS_Web/View/img_pg.aspx?CNTN_CD=IE003028614",
+    "credit": "ENA · via OhmyNews",
+    "checkedAt": "2026-10-29",
+    "sha256": "e233930f2ce533509a2837df73778c4987e77feaa3a6054ae4fcec1de637596b",
+    "rights": "Copyright remains with the respective broadcaster / rights holder. Commercial reuse permission is not independently verified."
+  },
+  {
+    "storyId": "hp-egg-sandwich",
+    "file": "assets/star-scenes/hp-egg-sandwich.jpg",
+    "originalImageUrl": "https://talkimg.imbc.com/TVianUpload/TVian/TViews/image/2020/04/29/ojqxkbrsmm66637237537055395008.jpg",
+    "sourceUrl": "https://enews.imbc.com/News/RetrieveNewsInfo/282058",
+    "credit": "tvN / Yooborn Company · via iMBC Entertainment",
+    "checkedAt": "2026-10-29",
+    "sha256": "a31e13b71442288cbe986445c77c2483355b7b0fa90dfe171cababed565870af",
+    "rights": "Copyright remains with the respective broadcaster / rights holder. Commercial reuse permission is not independently verified."
+  },
+  {
+    "storyId": "hwasa-gopchang",
+    "file": "assets/star-scenes/hwasa-gopchang.jpg",
+    "originalImageUrl": "https://img.insight.co.kr/static/2018/06/11/700/8mvlto4kcx61mu442ql9.jpg",
+    "sourceUrl": "https://www.insight.co.kr/news/160040",
+    "credit": "MBC · via Insight",
+    "checkedAt": "2026-10-29",
+    "sha256": "63c5607a8898f91e3f66877a03626266d8bc0e9019b44f075bb7625dac7e8589",
+    "rights": "Copyright remains with the respective broadcaster / rights holder. Commercial reuse permission is not independently verified."
+  },
+  {
+    "storyId": "my-love-chimaek",
+    "file": "assets/star-scenes/my-love-from-the-star.jpg",
+    "originalImageUrl": "https://www.korea.net/upload/content/editImage/140303_my_love_from_the_star4.jpg",
+    "sourceUrl": "https://www.korea.net/NewsFocus/Culture/view?articleId=117903",
+    "credit": "SBS · via Korea.net",
+    "checkedAt": "2026-10-29",
+    "sha256": "b288d9b84b25f39c6d47164935e8949499156deadd89dc62c209fe6d3c458f48",
+    "rights": "Copyright remains with the respective broadcaster / rights holder. Commercial reuse permission is not independently verified."
+  }
+]

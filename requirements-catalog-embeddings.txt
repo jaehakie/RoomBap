@@ -1,0 +1,2 @@
+# Optional build-time dependency; serving uses the committed precomputed vectors.
+fastembed==0.9.1

@@ -1,0 +1,82 @@
+[
+  {
+    "file": "star-foods/soup.jpg",
+    "originalImageUrl": "https://d3af5evjz6cdzs.cloudfront.net/images/uploads/800x0/_6c6f2517d8fb6536406c575b72ae0d871734912216.jpg",
+    "sourceUrl": "https://www.shuttledelivery.co.kr/en/restaurant/menu/2967",
+    "credit": "Menu photograph via Shuttle Delivery; respective restaurant / photographer",
+    "bytes": 77725,
+    "sha256": "e751f3975fb94f61ca3ce0a06a2a22ff79e7c76a1fc1c964867a3d1b908ee9b3",
+    "checkedAt": "2026-10-29",
+    "rights": "Copyright remains with the respective owner. Commercial reuse permission is not independently verified."
+  },
+  {
+    "file": "star-foods/hotdog.jpg",
+    "originalImageUrl": "https://d3af5evjz6cdzs.cloudfront.net/images/uploads/800x0/hot-dog_5a4f2160237fb8ac75dda4e3246e84791702524616.jpg",
+    "sourceUrl": "https://www.shuttledelivery.co.kr/en/restaurant/menu/2644",
+    "credit": "Menu photograph via Shuttle Delivery; respective restaurant / photographer",
+    "bytes": 110915,
+    "sha256": "e6927d95957a9fbf89c0f8f3aefc9b075a995bb651b6ee3bcac11cf8b141f1d8",
+    "checkedAt": "2026-10-29",
+    "rights": "Copyright remains with the respective owner. Commercial reuse permission is not independently verified."
+  },
+  {
+    "file": "star-foods/tteokbokki.jpg",
+    "originalImageUrl": "https://d3af5evjz6cdzs.cloudfront.net/images/uploads/800x0/stella-tteokbokki_46a4a5fec5f7fb2582f10fd488e86a0a1734030955.jpg",
+    "sourceUrl": "https://www.shuttledelivery.co.kr/en/restaurant/menu/2955",
+    "credit": "Menu photograph via Shuttle Delivery; respective restaurant / photographer",
+    "bytes": 51999,
+    "sha256": "08e81bfc16a458cb2ca02d1f2d5f93f539efb60a832ffbee45785eadd045d19a",
+    "checkedAt": "2026-10-29",
+    "rights": "Copyright remains with the respective owner. Commercial reuse permission is not independently verified."
+  },
+  {
+    "file": "star-foods/gimbap.jpg",
+    "originalImageUrl": "https://d3af5evjz6cdzs.cloudfront.net/images/uploads/800x0/samchungdang-gimbap_b3b9b5ee17b24083accde47e697370501710995266.jpg",
+    "sourceUrl": "https://www.shuttledelivery.co.kr/en/restaurant/menu/2713",
+    "credit": "Menu photograph via Shuttle Delivery; respective restaurant / photographer",
+    "bytes": 37089,
+    "sha256": "2f960dc7b1581eac670a0ae3df6fdfa6efd8fe3f4c4cab761e224dd3d7fd97e6",
+    "checkedAt": "2026-10-29",
+    "rights": "Copyright remains with the respective owner. Commercial reuse permission is not independently verified."
+  },
+  {
+    "file": "star-foods/egg.jpg",
+    "originalImageUrl": "https://d3af5evjz6cdzs.cloudfront.net/images/uploads/800x0/mr-egg-set_691cca00f2166a6baffe7484477514291711518200.jpg",
+    "sourceUrl": "https://www.shuttledelivery.co.kr/en/restaurant/menu/2897/egg-drop",
+    "credit": "Menu photograph via Shuttle Delivery; respective restaurant / photographer",
+    "bytes": 57736,
+    "sha256": "f26d7624e56da12765ce0e13b6f4be0e3181db339985489d00507f6b4f838e8b",
+    "checkedAt": "2026-10-29",
+    "rights": "Copyright remains with the respective owner. Commercial reuse permission is not independently verified."
+  },
+  {
+    "file": "star-foods/gopchang.jpg",
+    "originalImageUrl": "https://d3af5evjz6cdzs.cloudfront.net/images/uploads/800x0/4_1_ad3ae0040fa6dac01b79287beeed34361767085361.jpg",
+    "sourceUrl": "https://www.shuttledelivery.co.kr/en/restaurant/menu/3283/jinhwa-gopchang",
+    "credit": "Menu photograph via Shuttle Delivery; respective restaurant / photographer",
+    "bytes": 157125,
+    "sha256": "2bb2be3a62773a2aae2237d4a48e5ef3ae60febc128ba4e80bf74341eed1c5a2",
+    "checkedAt": "2026-10-29",
+    "rights": "Copyright remains with the respective owner. Commercial reuse permission is not independently verified."
+  },
+  {
+    "file": "star-foods/chicken.jpg",
+    "originalImageUrl": "https://d3af5evjz6cdzs.cloudfront.net/images/uploads/800x0/014_-125l_31e6d0a1f9d56fd1305029c051816be81769765017.jpg",
+    "sourceUrl": "https://www.shuttledelivery.co.kr/en/restaurant/menu/1544",
+    "credit": "Menu photograph via Shuttle Delivery; respective restaurant / photographer",
+    "bytes": 101709,
+    "sha256": "13e33a979e6a07f0975a63f7d2fe3c39ab15a38cf2518306794643ebbf9c76d6",
+    "checkedAt": "2026-10-29",
+    "rights": "Copyright remains with the respective owner. Commercial reuse permission is not independently verified."
+  },
+  {
+    "file": "star-scenes/my-love-from-the-star.jpg",
+    "originalImageUrl": "https://www.korea.net/upload/content/editImage/140303_my_love_from_the_star4.jpg",
+    "sourceUrl": "https://www.korea.net/NewsFocus/Culture/view?articleId=117903",
+    "credit": "SBS \u00b7 My Love from the Star, via Korea.net",
+    "bytes": 115006,
+    "sha256": "b288d9b84b25f39c6d47164935e8949499156deadd89dc62c209fe6d3c458f48",
+    "checkedAt": "2026-10-29",
+    "rights": "Copyright remains with the respective owner. Commercial reuse permission is not independently verified."
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "id": "fruit-filled-rice-cake",
+    "name": "Fruit-filled chapssaltteok (생과일 찹쌀떡)",
+    "aliases": [
+      "과일 찹쌀떡",
+      "水果糯米糕",
+      "フルーツ大福",
+      "fruit rice cake"
+    ],
+    "tags": [
+      "fruity",
+      "rice_cake",
+      "chewy",
+      "sweet"
+    ],
+    "anchor_tags": [
+      "fruity"
+    ],
+    "description": "Documented food topic from dated tourism sources; current popularity is unmeasured.",
+    "is_demo": false,
+    "evidence_status": "source_backed",
+    "checked_at": "2026-10-28T14:47:29.220579+00:00",
+    "trend_score": null,
+    "sources": [
+      {
+        "url": "https://english.visitseoul.net/area/hanjungsun/ENPp1q4s4",
+        "title": "Hanjungsun | Visit Seoul",
+        "published_at": "2025-06-27T00:00:00+09:00",
+        "updated_at": "2026-09-01T00:00:00+09:00",
+        "verified_at": "2026-10-28T14:47:29.220579+00:00"
+      },
+      {
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1574161",
+        "title": "Top 5 K-Desserts for a Foolproof Korean Food Trip | VISITKOREA",
+        "published_at": "2026-03-05T00:00:00+09:00",
+        "verified_at": "2026-10-28T14:47:29.220579+00:00"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "fruit-filled-rice-cake-1",
+        "claim": "Visit Seoul describes fresh fruit inside chewy glutinous rice cakes at Hanjungsun.",
+        "source_url": "https://english.visitseoul.net/area/hanjungsun/ENPp1q4s4",
+        "source_section": "Travel Info"
+      },
+      {
+        "id": "fruit-filled-rice-cake-2",
+        "claim": "The March 2026 VISITKOREA guide lists Hanjungsun under rice cakes.",
+        "source_url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1574161",
+        "source_section": "Rice Cake"
+      }
+    ]
+  },
+  {
+    "id": "dubai-chewy-cookie",
+    "name": "Dubai Chewy Cookie (두바이 쫀득 쿠키)",
+    "aliases": [
+      "두쫀쿠",
+      "迪拜软曲奇",
+      "ドバイもちもちクッキー"
+    ],
+    "tags": [
+      "chocolate",
+      "chewy",
+      "sweet",
+      "nutty"
+    ],
+    "anchor_tags": [
+      "chocolate"
+    ],
+    "description": "Documented food topic from dated tourism sources; current popularity is unmeasured.",
+    "is_demo": false,
+    "evidence_status": "source_backed",
+    "checked_at": "2026-10-28T14:47:29.220579+00:00",
+    "trend_score": null,
+    "sources": [
+      {
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=120&menuSn=929&vcontsId=1570855",
+        "title": "Korea's Latest Dessert Obsession: The Dubai Chewy Cookie | VISITKOREA",
+        "published_at": "2026-02-27T00:00:00+09:00",
+        "verified_at": "2026-10-28T14:47:29.220579+00:00"
+      },
+      {
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1574161",
+        "title": "Top 5 K-Desserts for a Foolproof Korean Food Trip | VISITKOREA",
+        "published_at": "2026-03-05T00:00:00+09:00",
+        "verified_at": "2026-10-28T14:47:29.220579+00:00"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "dubai-chewy-cookie-1",
+        "claim": "VISITKOREA describes marshmallow around pistachio spread and crisp kadayif.",
+        "source_url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=120&menuSn=929&vcontsId=1570855",
+        "source_section": "The Dubai Chewy Cookie, Korea’s Hottest Trend"
+      },
+      {
+        "id": "dubai-chewy-cookie-2",
+        "claim": "The March 2026 guide discusses this chewy dessert under Dubai chocolate.",
+        "source_url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1574161",
+        "source_section": "Dubai Chocolate"
+      }
+    ]
+  },
+  {
+    "id": "yakgwa",
+    "name": "Yakgwa (약과)",
+    "aliases": [
+      "honey cookie",
+      "韓菓",
+      "药果",
+      "ヤックァ"
+    ],
+    "tags": [
+      "pastry",
+      "sweet",
+      "crispy"
+    ],
+    "anchor_tags": [
+      "pastry"
+    ],
+    "description": "Documented food topic from dated tourism sources; current popularity is unmeasured.",
+    "is_demo": false,
+    "evidence_status": "source_backed",
+    "checked_at": "2026-10-28T14:58:44.140622+00:00",
+    "trend_score": null,
+    "sources": [
+      {
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1574161",
+        "title": "Top 5 K-Desserts for a Foolproof Korean Food Trip | VISITKOREA",
+        "published_at": "2026-03-05T00:00:00+09:00",
+        "verified_at": "2026-10-28T14:47:29.220579+00:00"
+      },
+      {
+        "url": "https://english.visitseoul.net/attractions/2023001/ENPv423hd",
+        "title": "Mannadang | Visit Seoul",
+        "published_at": "2023-06-28T00:00:00+09:00",
+        "updated_at": "2026-09-28T00:00:00+09:00",
+        "verified_at": "2026-10-28T14:58:44.140622+00:00"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "yakgwa-1",
+        "claim": "The guide describes yakgwa as fried dough glazed with syrup or honey.",
+        "source_url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1574161",
+        "source_section": "Traditional Korean Sweets"
+      },
+      {
+        "id": "yakgwa-2",
+        "claim": "Visit Seoul identifies yakgwa with jochung as Mannadang’s signature product.",
+        "source_url": "https://english.visitseoul.net/attractions/2023001/ENPv423hd",
+        "source_section": "Travel Info"
+      }
+    ]
+  },
+  {
+    "id": "gaeseongjuak",
+    "name": "Gaeseongjuak (개성주악)",
+    "aliases": [
+      "开城油蜜果",
+      "ケソンジュアク",
+      "Korean doughnut"
+    ],
+    "tags": [
+      "rice_cake",
+      "chewy",
+      "sweet"
+    ],
+    "anchor_tags": [
+      "rice_cake"
+    ],
+    "description": "Documented food topic from dated tourism sources; current popularity is unmeasured.",
+    "is_demo": false,
+    "evidence_status": "source_backed",
+    "checked_at": "2026-10-28T14:47:29.220579+00:00",
+    "trend_score": null,
+    "sources": [
+      {
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1574161",
+        "title": "Top 5 K-Desserts for a Foolproof Korean Food Trip | VISITKOREA",
+        "published_at": "2026-03-05T00:00:00+09:00",
+        "verified_at": "2026-10-28T14:47:29.220579+00:00"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "gaeseongjuak-1",
+        "claim": "The guide describes gaeseongjuak as a chewy sweet made from fried, glazed dough.",
+        "source_url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1574161",
+        "source_section": "Traditional Korean Sweets"
+      }
+    ]
+  },
+  {
+    "id": "croffle",
+    "name": "Croffle (크로플)",
+    "aliases": [
+      "可颂华夫饼",
+      "クロッフル",
+      "croissant waffle"
+    ],
+    "tags": [
+      "pastry",
+      "crispy",
+      "sweet"
+    ],
+    "anchor_tags": [
+      "pastry"
+    ],
+    "description": "Documented food topic from dated tourism sources; current popularity is unmeasured.",
+    "is_demo": false,
+    "evidence_status": "source_backed",
+    "checked_at": "2026-10-28T14:47:29.220579+00:00",
+    "trend_score": null,
+    "sources": [
+      {
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1574161",
+        "title": "Top 5 K-Desserts for a Foolproof Korean Food Trip | VISITKOREA",
+        "published_at": "2026-03-05T00:00:00+09:00",
+        "verified_at": "2026-10-28T14:47:29.220579+00:00"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "croffle-1",
+        "claim": "The guide describes croffles as croissant dough cooked in a waffle iron.",
+        "source_url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1574161",
+        "source_section": "Croffle"
+      }
+    ],
+    "search_phrases": [
+      "크루아상 반죽",
+      "와플 기계",
+      "クロワッサン生地",
+      "ワッフルメーカー",
+      "可颂面团",
+      "华夫饼机"
+    ]
+  },
+  {
+    "id": "salt-bread",
+    "name": "Salt Bread (소금빵)",
+    "aliases": [
+      "塩パン",
+      "盐面包",
+      "salted bread"
+    ],
+    "tags": [
+      "bread",
+      "crispy"
+    ],
+    "anchor_tags": [
+      "bread"
+    ],
+    "description": "Documented food topic from dated tourism sources; current popularity is unmeasured.",
+    "is_demo": false,
+    "evidence_status": "source_backed",
+    "checked_at": "2026-10-28T14:47:29.220579+00:00",
+    "trend_score": null,
+    "sources": [
+      {
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1574161",
+        "title": "Top 5 K-Desserts for a Foolproof Korean Food Trip | VISITKOREA",
+        "published_at": "2026-03-05T00:00:00+09:00",
+        "verified_at": "2026-10-28T14:47:29.220579+00:00"
+      },
+      {
+        "url": "https://english.visitseoul.net/restaurants/saltbread-in-seaside/ENPxtexu0",
+        "title": "Jayondo Salt Bread in Seongsu | Visit Seoul",
+        "published_at": "2025-05-22T00:00:00+09:00",
+        "updated_at": "2026-08-30T00:00:00+09:00",
+        "verified_at": "2026-10-28T14:47:29.220579+00:00"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "salt-bread-1",
+        "claim": "The guide describes Korean salt bread as crisp outside and soft inside.",
+        "source_url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1574161",
+        "source_section": "Salt Bread"
+      },
+      {
+        "id": "salt-bread-2",
+        "claim": "Visit Seoul lists salt bread as Jayondo’s single signature item.",
+        "source_url": "https://english.visitseoul.net/restaurants/saltbread-in-seaside/ENPxtexu0",
+        "source_section": "Travel Info"
+      }
+    ]
+  },
+  {
+    "id": "dubai-salt-bread",
+    "name": "Dubai Salt Bread (두바이 소금빵)",
+    "aliases": [
+      "迪拜盐面包",
+      "ドバイ塩パン"
+    ],
+    "tags": [
+      "bread",
+      "nutty"
+    ],
+    "anchor_tags": [
+      "bread"
+    ],
+    "description": "Documented food topic from dated tourism sources; current popularity is unmeasured.",
+    "is_demo": false,
+    "evidence_status": "source_backed",
+    "checked_at": "2026-10-28T14:47:29.220579+00:00",
+    "trend_score": null,
+    "sources": [
+      {
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=120&menuSn=929&vcontsId=1570855",
+        "title": "Korea's Latest Dessert Obsession: The Dubai Chewy Cookie | VISITKOREA",
+        "published_at": "2026-02-27T00:00:00+09:00",
+        "verified_at": "2026-10-28T14:47:29.220579+00:00"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "dubai-salt-bread-1",
+        "claim": "The February 2026 article describes salt bread filled with pistachio and kadayif.",
+        "source_url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=120&menuSn=929&vcontsId=1570855",
+        "source_section": "Dubai Salt Bread"
+      }
+    ]
+  },
+  {
+    "id": "dubai-bungeoppang",
+    "name": "Dubai Bungeoppang (두바이 붕어빵)",
+    "aliases": [
+      "迪拜鲷鱼烧",
+      "ドバイたい焼き"
+    ],
+    "tags": [
+      "pastry",
+      "chocolate",
+      "nutty",
+      "crispy"
+    ],
+    "anchor_tags": [
+      "chocolate"
+    ],
+    "description": "Documented food topic from dated tourism sources; current popularity is unmeasured.",
+    "is_demo": false,
+    "evidence_status": "source_backed",
+    "checked_at": "2026-10-28T14:47:29.220579+00:00",
+    "trend_score": null,
+    "sources": [
+      {
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=120&menuSn=929&vcontsId=1570855",
+        "title": "Korea's Latest Dessert Obsession: The Dubai Chewy Cookie | VISITKOREA",
+        "published_at": "2026-02-27T00:00:00+09:00",
+        "verified_at": "2026-10-28T14:47:29.220579+00:00"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "dubai-bungeoppang-1",
+        "claim": "The article describes fish-shaped pastries with pistachio, kadayif and a chocolate coating.",
+        "source_url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=120&menuSn=929&vcontsId=1570855",
+        "source_section": "Dubai Bungeoppang (Fish-Shaped Bun)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "version": "9d6de8dd5beef6e60b901f72ec005b36da3f2e4ce0cde119dda4edafa8360774",
+  "source": "https://roombap-hotel-qr.tjdqls3863.chatgpt.site/",
+  "baseline": "Captured teammate-site version 2026-10-29; no runtime scraping",
+  "old": {
+    "restaurants": 40,
+    "menus": 120
+  },
+  "current": {
+    "restaurants": 50,
+    "menus": 144
+  },
+  "added_menu_ids": [
+    "place-dessert-4-dubai-cookie",
+    "place-salad-plant-reference-0",
+    "place-salad-plant-reference-1",
+    "place-salad-slow-reference-0",
+    "place-salad-slow-reference-1",
+    "place-salad-slow-reference-2",
+    "place-salad-salady-reference-0",
+    "place-salad-salady-reference-1",
+    "place-salad-poke-reference-0",
+    "place-salad-poke-reference-1",
+    "place-salad-poke-reference-2",
+    "place-salad-slunch-reference-0",
+    "place-salad-slunch-reference-1",
+    "place-halal-stacks-reference-0",
+    "place-halal-stacks-reference-1",
+    "place-halal-stacks-reference-2",
+    "place-halal-stacks-reference-3",
+    "place-halal-amma-reference-0",
+    "place-halal-amma-reference-1",
+    "place-halal-amma-reference-2",
+    "place-halal-delhi-reference-0",
+    "place-halal-delhi-reference-1",
+    "place-halal-delhi-reference-2",
+    "place-halal-jyoti-reference-0",
+    "place-halal-jyoti-reference-1",
+    "place-halal-jyoti-reference-2",
+    "place-halal-yeti-demo-tandoori"
+  ],
+  "retired_menu_ids": [
+    "place-dessert-4-bingsu",
+    "place-dessert-4-fruit-tart",
+    "place-dessert-4-soft-serve"
+  ],
+  "preserved_existing_menu_ids": 117,
+  "original_frontend_data_exactly_preserved": true,
+  "existing_menu_price_changes": [],
+  "vectors": 192,
+  "automated_tests_passed": 228,
+  "browser_checks_passed": 14,
+  "production_deployment_changed": false,
+  "dietary_restriction_policy_unchanged": true
+}

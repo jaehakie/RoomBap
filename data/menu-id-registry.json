@@ -1,0 +1,598 @@
+{
+  "schema_version": "1.0",
+  "active": {
+    "place-rice-1-bulgogi-bowl": {
+      "restaurant_id": "place-rice-1",
+      "name": "Bulgogi Rice Bowl"
+    },
+    "place-rice-1-spicy-pork-bowl": {
+      "restaurant_id": "place-rice-1",
+      "name": "Spicy Pork Rice Bowl"
+    },
+    "place-rice-1-veg-bibimbap": {
+      "restaurant_id": "place-rice-1",
+      "name": "Vegetable Bibimbap"
+    },
+    "place-rice-2-bulgogi-bowl": {
+      "restaurant_id": "place-rice-2",
+      "name": "Bulgogi Rice Bowl"
+    },
+    "place-rice-2-spicy-pork-bowl": {
+      "restaurant_id": "place-rice-2",
+      "name": "Spicy Pork Rice Bowl"
+    },
+    "place-rice-2-veg-bibimbap": {
+      "restaurant_id": "place-rice-2",
+      "name": "Vegetable Bibimbap"
+    },
+    "place-rice-3-bulgogi-bowl": {
+      "restaurant_id": "place-rice-3",
+      "name": "Bulgogi Rice Bowl"
+    },
+    "place-rice-3-spicy-pork-bowl": {
+      "restaurant_id": "place-rice-3",
+      "name": "Spicy Pork Rice Bowl"
+    },
+    "place-rice-3-veg-bibimbap": {
+      "restaurant_id": "place-rice-3",
+      "name": "Vegetable Bibimbap"
+    },
+    "place-rice-4-bulgogi-bowl": {
+      "restaurant_id": "place-rice-4",
+      "name": "Bulgogi Rice Bowl"
+    },
+    "place-rice-4-spicy-pork-bowl": {
+      "restaurant_id": "place-rice-4",
+      "name": "Spicy Pork Rice Bowl"
+    },
+    "place-rice-4-veg-bibimbap": {
+      "restaurant_id": "place-rice-4",
+      "name": "Vegetable Bibimbap"
+    },
+    "place-rice-5-bulgogi-bowl": {
+      "restaurant_id": "place-rice-5",
+      "name": "Bulgogi Rice Bowl"
+    },
+    "place-rice-5-spicy-pork-bowl": {
+      "restaurant_id": "place-rice-5",
+      "name": "Spicy Pork Rice Bowl"
+    },
+    "place-rice-5-veg-bibimbap": {
+      "restaurant_id": "place-rice-5",
+      "name": "Vegetable Bibimbap"
+    },
+    "place-chicken-1-whole": {
+      "restaurant_id": "place-chicken-1",
+      "name": "Fried Chicken (Whole)"
+    },
+    "place-chicken-1-half-half": {
+      "restaurant_id": "place-chicken-1",
+      "name": "Half & Half Chicken"
+    },
+    "place-chicken-1-wings": {
+      "restaurant_id": "place-chicken-1",
+      "name": "Seasoned Wings"
+    },
+    "place-chicken-2-whole": {
+      "restaurant_id": "place-chicken-2",
+      "name": "Fried Chicken (Whole)"
+    },
+    "place-chicken-2-half-half": {
+      "restaurant_id": "place-chicken-2",
+      "name": "Half & Half Chicken"
+    },
+    "place-chicken-2-wings": {
+      "restaurant_id": "place-chicken-2",
+      "name": "Seasoned Wings"
+    },
+    "place-chicken-3-whole": {
+      "restaurant_id": "place-chicken-3",
+      "name": "Fried Chicken (Whole)"
+    },
+    "place-chicken-3-half-half": {
+      "restaurant_id": "place-chicken-3",
+      "name": "Half & Half Chicken"
+    },
+    "place-chicken-3-wings": {
+      "restaurant_id": "place-chicken-3",
+      "name": "Seasoned Wings"
+    },
+    "place-chicken-4-whole": {
+      "restaurant_id": "place-chicken-4",
+      "name": "Fried Chicken (Whole)"
+    },
+    "place-chicken-4-half-half": {
+      "restaurant_id": "place-chicken-4",
+      "name": "Half & Half Chicken"
+    },
+    "place-chicken-4-wings": {
+      "restaurant_id": "place-chicken-4",
+      "name": "Seasoned Wings"
+    },
+    "place-chicken-5-whole": {
+      "restaurant_id": "place-chicken-5",
+      "name": "Fried Chicken (Whole)"
+    },
+    "place-chicken-5-half-half": {
+      "restaurant_id": "place-chicken-5",
+      "name": "Half & Half Chicken"
+    },
+    "place-chicken-5-wings": {
+      "restaurant_id": "place-chicken-5",
+      "name": "Seasoned Wings"
+    },
+    "place-noodles-1-ramen": {
+      "restaurant_id": "place-noodles-1",
+      "name": "Tonkotsu-style Ramen"
+    },
+    "place-noodles-1-spicy-mixed": {
+      "restaurant_id": "place-noodles-1",
+      "name": "Spicy Mixed Noodles"
+    },
+    "place-noodles-1-cold-noodles": {
+      "restaurant_id": "place-noodles-1",
+      "name": "Cold Noodles"
+    },
+    "place-noodles-2-ramen": {
+      "restaurant_id": "place-noodles-2",
+      "name": "Tonkotsu-style Ramen"
+    },
+    "place-noodles-2-spicy-mixed": {
+      "restaurant_id": "place-noodles-2",
+      "name": "Spicy Mixed Noodles"
+    },
+    "place-noodles-2-cold-noodles": {
+      "restaurant_id": "place-noodles-2",
+      "name": "Cold Noodles"
+    },
+    "place-noodles-3-ramen": {
+      "restaurant_id": "place-noodles-3",
+      "name": "Tonkotsu-style Ramen"
+    },
+    "place-noodles-3-spicy-mixed": {
+      "restaurant_id": "place-noodles-3",
+      "name": "Spicy Mixed Noodles"
+    },
+    "place-noodles-3-cold-noodles": {
+      "restaurant_id": "place-noodles-3",
+      "name": "Cold Noodles"
+    },
+    "place-noodles-4-ramen": {
+      "restaurant_id": "place-noodles-4",
+      "name": "Tonkotsu-style Ramen"
+    },
+    "place-noodles-4-spicy-mixed": {
+      "restaurant_id": "place-noodles-4",
+      "name": "Spicy Mixed Noodles"
+    },
+    "place-noodles-4-cold-noodles": {
+      "restaurant_id": "place-noodles-4",
+      "name": "Cold Noodles"
+    },
+    "place-noodles-5-ramen": {
+      "restaurant_id": "place-noodles-5",
+      "name": "Tonkotsu-style Ramen"
+    },
+    "place-noodles-5-spicy-mixed": {
+      "restaurant_id": "place-noodles-5",
+      "name": "Spicy Mixed Noodles"
+    },
+    "place-noodles-5-cold-noodles": {
+      "restaurant_id": "place-noodles-5",
+      "name": "Cold Noodles"
+    },
+    "place-soup-1-pork-gukbap": {
+      "restaurant_id": "place-soup-1",
+      "name": "Pork Soup & Rice"
+    },
+    "place-soup-1-beef-bone-soup": {
+      "restaurant_id": "place-soup-1",
+      "name": "Beef Bone Soup & Rice"
+    },
+    "place-soup-1-sundae-soup": {
+      "restaurant_id": "place-soup-1",
+      "name": "Sundae (Blood Sausage) Soup"
+    },
+    "place-soup-2-pork-gukbap": {
+      "restaurant_id": "place-soup-2",
+      "name": "Pork Soup & Rice"
+    },
+    "place-soup-2-beef-bone-soup": {
+      "restaurant_id": "place-soup-2",
+      "name": "Beef Bone Soup & Rice"
+    },
+    "place-soup-2-sundae-soup": {
+      "restaurant_id": "place-soup-2",
+      "name": "Sundae (Blood Sausage) Soup"
+    },
+    "place-soup-3-pork-gukbap": {
+      "restaurant_id": "place-soup-3",
+      "name": "Pork Soup & Rice"
+    },
+    "place-soup-3-beef-bone-soup": {
+      "restaurant_id": "place-soup-3",
+      "name": "Beef Bone Soup & Rice"
+    },
+    "place-soup-3-sundae-soup": {
+      "restaurant_id": "place-soup-3",
+      "name": "Sundae (Blood Sausage) Soup"
+    },
+    "place-soup-4-pork-gukbap": {
+      "restaurant_id": "place-soup-4",
+      "name": "Pork Soup & Rice"
+    },
+    "place-soup-4-beef-bone-soup": {
+      "restaurant_id": "place-soup-4",
+      "name": "Beef Bone Soup & Rice"
+    },
+    "place-soup-4-sundae-soup": {
+      "restaurant_id": "place-soup-4",
+      "name": "Sundae (Blood Sausage) Soup"
+    },
+    "place-soup-5-pork-gukbap": {
+      "restaurant_id": "place-soup-5",
+      "name": "Pork Soup & Rice"
+    },
+    "place-soup-5-beef-bone-soup": {
+      "restaurant_id": "place-soup-5",
+      "name": "Beef Bone Soup & Rice"
+    },
+    "place-soup-5-sundae-soup": {
+      "restaurant_id": "place-soup-5",
+      "name": "Sundae (Blood Sausage) Soup"
+    },
+    "place-street-food-1-tteokbokki": {
+      "restaurant_id": "place-street-food-1",
+      "name": "Tteokbokki"
+    },
+    "place-street-food-1-gimbap": {
+      "restaurant_id": "place-street-food-1",
+      "name": "Gimbap (Rice Roll)"
+    },
+    "place-street-food-1-corndog": {
+      "restaurant_id": "place-street-food-1",
+      "name": "Korean Corn Dog"
+    },
+    "place-street-food-2-tteokbokki": {
+      "restaurant_id": "place-street-food-2",
+      "name": "Tteokbokki"
+    },
+    "place-street-food-2-gimbap": {
+      "restaurant_id": "place-street-food-2",
+      "name": "Gimbap (Rice Roll)"
+    },
+    "place-street-food-2-corndog": {
+      "restaurant_id": "place-street-food-2",
+      "name": "Korean Corn Dog"
+    },
+    "place-street-food-3-tteokbokki": {
+      "restaurant_id": "place-street-food-3",
+      "name": "Tteokbokki"
+    },
+    "place-street-food-3-gimbap": {
+      "restaurant_id": "place-street-food-3",
+      "name": "Gimbap (Rice Roll)"
+    },
+    "place-street-food-3-corndog": {
+      "restaurant_id": "place-street-food-3",
+      "name": "Korean Corn Dog"
+    },
+    "place-street-food-4-tteokbokki": {
+      "restaurant_id": "place-street-food-4",
+      "name": "Tteokbokki"
+    },
+    "place-street-food-4-gimbap": {
+      "restaurant_id": "place-street-food-4",
+      "name": "Gimbap (Rice Roll)"
+    },
+    "place-street-food-4-corndog": {
+      "restaurant_id": "place-street-food-4",
+      "name": "Korean Corn Dog"
+    },
+    "place-street-food-5-tteokbokki": {
+      "restaurant_id": "place-street-food-5",
+      "name": "Tteokbokki"
+    },
+    "place-street-food-5-gimbap": {
+      "restaurant_id": "place-street-food-5",
+      "name": "Gimbap (Rice Roll)"
+    },
+    "place-street-food-5-corndog": {
+      "restaurant_id": "place-street-food-5",
+      "name": "Korean Corn Dog"
+    },
+    "place-dumplings-1-steamed": {
+      "restaurant_id": "place-dumplings-1",
+      "name": "Steamed Mandu"
+    },
+    "place-dumplings-1-pan-fried": {
+      "restaurant_id": "place-dumplings-1",
+      "name": "Pan-fried Mandu"
+    },
+    "place-dumplings-1-mandu-soup": {
+      "restaurant_id": "place-dumplings-1",
+      "name": "Spicy Mandu Soup"
+    },
+    "place-dumplings-2-steamed": {
+      "restaurant_id": "place-dumplings-2",
+      "name": "Steamed Mandu"
+    },
+    "place-dumplings-2-pan-fried": {
+      "restaurant_id": "place-dumplings-2",
+      "name": "Pan-fried Mandu"
+    },
+    "place-dumplings-2-mandu-soup": {
+      "restaurant_id": "place-dumplings-2",
+      "name": "Spicy Mandu Soup"
+    },
+    "place-dumplings-3-steamed": {
+      "restaurant_id": "place-dumplings-3",
+      "name": "Steamed Mandu"
+    },
+    "place-dumplings-3-pan-fried": {
+      "restaurant_id": "place-dumplings-3",
+      "name": "Pan-fried Mandu"
+    },
+    "place-dumplings-3-mandu-soup": {
+      "restaurant_id": "place-dumplings-3",
+      "name": "Spicy Mandu Soup"
+    },
+    "place-dumplings-4-steamed": {
+      "restaurant_id": "place-dumplings-4",
+      "name": "Steamed Mandu"
+    },
+    "place-dumplings-4-pan-fried": {
+      "restaurant_id": "place-dumplings-4",
+      "name": "Pan-fried Mandu"
+    },
+    "place-dumplings-4-mandu-soup": {
+      "restaurant_id": "place-dumplings-4",
+      "name": "Spicy Mandu Soup"
+    },
+    "place-dumplings-5-steamed": {
+      "restaurant_id": "place-dumplings-5",
+      "name": "Steamed Mandu"
+    },
+    "place-dumplings-5-pan-fried": {
+      "restaurant_id": "place-dumplings-5",
+      "name": "Pan-fried Mandu"
+    },
+    "place-dumplings-5-mandu-soup": {
+      "restaurant_id": "place-dumplings-5",
+      "name": "Spicy Mandu Soup"
+    },
+    "place-bbq-1-pork-belly": {
+      "restaurant_id": "place-bbq-1",
+      "name": "Grilled Pork Belly Set"
+    },
+    "place-bbq-1-pork-neck": {
+      "restaurant_id": "place-bbq-1",
+      "name": "Grilled Pork Neck Set"
+    },
+    "place-bbq-1-bbq-combo": {
+      "restaurant_id": "place-bbq-1",
+      "name": "Korean BBQ Combo"
+    },
+    "place-bbq-2-pork-belly": {
+      "restaurant_id": "place-bbq-2",
+      "name": "Grilled Pork Belly Set"
+    },
+    "place-bbq-2-pork-neck": {
+      "restaurant_id": "place-bbq-2",
+      "name": "Grilled Pork Neck Set"
+    },
+    "place-bbq-2-bbq-combo": {
+      "restaurant_id": "place-bbq-2",
+      "name": "Korean BBQ Combo"
+    },
+    "place-bbq-3-pork-belly": {
+      "restaurant_id": "place-bbq-3",
+      "name": "Grilled Pork Belly Set"
+    },
+    "place-bbq-3-pork-neck": {
+      "restaurant_id": "place-bbq-3",
+      "name": "Grilled Pork Neck Set"
+    },
+    "place-bbq-3-bbq-combo": {
+      "restaurant_id": "place-bbq-3",
+      "name": "Korean BBQ Combo"
+    },
+    "place-bbq-4-pork-belly": {
+      "restaurant_id": "place-bbq-4",
+      "name": "Grilled Pork Belly Set"
+    },
+    "place-bbq-4-pork-neck": {
+      "restaurant_id": "place-bbq-4",
+      "name": "Grilled Pork Neck Set"
+    },
+    "place-bbq-4-bbq-combo": {
+      "restaurant_id": "place-bbq-4",
+      "name": "Korean BBQ Combo"
+    },
+    "place-bbq-5-pork-belly": {
+      "restaurant_id": "place-bbq-5",
+      "name": "Grilled Pork Belly Set"
+    },
+    "place-bbq-5-pork-neck": {
+      "restaurant_id": "place-bbq-5",
+      "name": "Grilled Pork Neck Set"
+    },
+    "place-bbq-5-bbq-combo": {
+      "restaurant_id": "place-bbq-5",
+      "name": "Korean BBQ Combo"
+    },
+    "place-dessert-1-bingsu": {
+      "restaurant_id": "place-dessert-1",
+      "name": "Bingsu (Shaved Ice)"
+    },
+    "place-dessert-1-fruit-tart": {
+      "restaurant_id": "place-dessert-1",
+      "name": "Seasonal Fruit Tart"
+    },
+    "place-dessert-1-soft-serve": {
+      "restaurant_id": "place-dessert-1",
+      "name": "Soft Serve Ice Cream"
+    },
+    "place-dessert-2-bingsu": {
+      "restaurant_id": "place-dessert-2",
+      "name": "Bingsu (Shaved Ice)"
+    },
+    "place-dessert-2-fruit-tart": {
+      "restaurant_id": "place-dessert-2",
+      "name": "Seasonal Fruit Tart"
+    },
+    "place-dessert-2-soft-serve": {
+      "restaurant_id": "place-dessert-2",
+      "name": "Soft Serve Ice Cream"
+    },
+    "place-dessert-3-bingsu": {
+      "restaurant_id": "place-dessert-3",
+      "name": "Bingsu (Shaved Ice)"
+    },
+    "place-dessert-3-fruit-tart": {
+      "restaurant_id": "place-dessert-3",
+      "name": "Seasonal Fruit Tart"
+    },
+    "place-dessert-3-soft-serve": {
+      "restaurant_id": "place-dessert-3",
+      "name": "Soft Serve Ice Cream"
+    },
+    "place-dessert-4-dubai-cookie": {
+      "restaurant_id": "place-dessert-4",
+      "name": "Dubai Chewy Cookie"
+    },
+    "place-dessert-5-bingsu": {
+      "restaurant_id": "place-dessert-5",
+      "name": "Bingsu (Shaved Ice)"
+    },
+    "place-dessert-5-fruit-tart": {
+      "restaurant_id": "place-dessert-5",
+      "name": "Seasonal Fruit Tart"
+    },
+    "place-dessert-5-soft-serve": {
+      "restaurant_id": "place-dessert-5",
+      "name": "Soft Serve Ice Cream"
+    },
+    "place-salad-plant-reference-0": {
+      "restaurant_id": "place-salad-plant",
+      "name": "Falafel Salad Bowl"
+    },
+    "place-salad-plant-reference-1": {
+      "restaurant_id": "place-salad-plant",
+      "name": "Tofu Caesar Salad Bowl"
+    },
+    "place-salad-slow-reference-0": {
+      "restaurant_id": "place-salad-slow",
+      "name": "Oriental Tofu Poke"
+    },
+    "place-salad-slow-reference-1": {
+      "restaurant_id": "place-salad-slow",
+      "name": "Truffle Mushroom Poke"
+    },
+    "place-salad-slow-reference-2": {
+      "restaurant_id": "place-salad-slow",
+      "name": "Salmon Poke"
+    },
+    "place-salad-salady-reference-0": {
+      "restaurant_id": "place-salad-salady",
+      "name": "Roast Chicken Thigh Salad Set"
+    },
+    "place-salad-salady-reference-1": {
+      "restaurant_id": "place-salad-salady",
+      "name": "Beef Brisket Buckwheat Noodle Bowl Set"
+    },
+    "place-salad-poke-reference-0": {
+      "restaurant_id": "place-salad-poke",
+      "name": "Tofu & Mushroom Balance Box"
+    },
+    "place-salad-poke-reference-1": {
+      "restaurant_id": "place-salad-poke",
+      "name": "Salmon Poke"
+    },
+    "place-salad-poke-reference-2": {
+      "restaurant_id": "place-salad-poke",
+      "name": "Perilla Oil Buckwheat Noodle Salad"
+    },
+    "place-salad-slunch-reference-0": {
+      "restaurant_id": "place-salad-slunch",
+      "name": "Vegan Pepperoni Pizza"
+    },
+    "place-salad-slunch-reference-1": {
+      "restaurant_id": "place-salad-slunch",
+      "name": "Green Spinach Gnocchi"
+    },
+    "place-halal-stacks-reference-0": {
+      "restaurant_id": "place-halal-stacks",
+      "name": "Chicken Platter (Small)"
+    },
+    "place-halal-stacks-reference-1": {
+      "restaurant_id": "place-halal-stacks",
+      "name": "Combo Platter (Small)"
+    },
+    "place-halal-stacks-reference-2": {
+      "restaurant_id": "place-halal-stacks",
+      "name": "Falafel Platter (Small)"
+    },
+    "place-halal-stacks-reference-3": {
+      "restaurant_id": "place-halal-stacks",
+      "name": "Falafel Sandwich"
+    },
+    "place-halal-amma-reference-0": {
+      "restaurant_id": "place-halal-amma",
+      "name": "Chicken Curry"
+    },
+    "place-halal-amma-reference-1": {
+      "restaurant_id": "place-halal-amma",
+      "name": "Lamb Curry"
+    },
+    "place-halal-amma-reference-2": {
+      "restaurant_id": "place-halal-amma",
+      "name": "Plain Naan"
+    },
+    "place-halal-delhi-reference-0": {
+      "restaurant_id": "place-halal-delhi",
+      "name": "Butter Chicken Curry"
+    },
+    "place-halal-delhi-reference-1": {
+      "restaurant_id": "place-halal-delhi",
+      "name": "Palak Paneer"
+    },
+    "place-halal-delhi-reference-2": {
+      "restaurant_id": "place-halal-delhi",
+      "name": "Butter Naan"
+    },
+    "place-halal-jyoti-reference-0": {
+      "restaurant_id": "place-halal-jyoti",
+      "name": "Tandoori Chicken (Half)"
+    },
+    "place-halal-jyoti-reference-1": {
+      "restaurant_id": "place-halal-jyoti",
+      "name": "Chicken Tikka"
+    },
+    "place-halal-jyoti-reference-2": {
+      "restaurant_id": "place-halal-jyoti",
+      "name": "Samosa"
+    },
+    "place-halal-yeti-demo-tandoori": {
+      "restaurant_id": "place-halal-yeti",
+      "name": "Tandoori Chicken — Demo"
+    }
+  },
+  "retired": {
+    "place-dessert-4-bingsu": {
+      "restaurant_id": "place-dessert-4",
+      "name": "Bingsu (Shaved Ice)",
+      "reason": "Removed from the selected teammate-site snapshot; replaced by its listed Dubai cookie item"
+    },
+    "place-dessert-4-fruit-tart": {
+      "restaurant_id": "place-dessert-4",
+      "name": "Seasonal Fruit Tart",
+      "reason": "Removed from the selected teammate-site snapshot; replaced by its listed Dubai cookie item"
+    },
+    "place-dessert-4-soft-serve": {
+      "restaurant_id": "place-dessert-4",
+      "name": "Soft Serve Ice Cream",
+      "reason": "Removed from the selected teammate-site snapshot; replaced by its listed Dubai cookie item"
+    }
+  }
+}

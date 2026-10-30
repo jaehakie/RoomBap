@@ -1,0 +1,3 @@
+# Keep authored text portable while preserving the hashed frontend originals.
+* text=auto eol=lf
+/public/** -text

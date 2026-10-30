@@ -1,0 +1,620 @@
+{
+  "source_url": "https://roombap-hotel-qr.tjdqls3863.chatgpt.site/",
+  "assets": [
+    {
+      "path": "app.js",
+      "sha256": "3afb055edd0444738461e06434f02f6145e9ec43af6f98f20098c9c9a2900856"
+    },
+    {
+      "path": "content.js",
+      "sha256": "53cf931af07435f585d674252f584a522283063396972f8d3108e91166da5ec3"
+    },
+    {
+      "path": "dessert-trends.js",
+      "sha256": "160b60f1153cc93e803aae0015940597f942999e07f42057f4f37e851dfed3cb"
+    },
+    {
+      "path": "dietary.js",
+      "sha256": "62cf9fa6ca512c6865f1ca13fe9d9af6aeff309e8b4235900a4384cfff53d517"
+    },
+    {
+      "path": "food-photos.js",
+      "sha256": "1b021d7b285befbd8320aa1d94ced1ea82be01254d5eba8d708217fc9680cafa"
+    },
+    {
+      "path": "local-discovery.js",
+      "sha256": "0994d946a7779280597c957bc688c9880648be71cd9016b8029ee367cf6ff4f2"
+    },
+    {
+      "path": "local-menu-references.js",
+      "sha256": "8e544cb033c712d3532ad9f3d2f1438a835bac0c498f38881fe15766404ba8e6"
+    },
+    {
+      "path": "manifest.webmanifest",
+      "sha256": "c77e70c31b1d2f23c931c28e01ac5f9acf2ee4ee44e2000d75e8e9108c518e0a"
+    },
+    {
+      "path": "menus.js",
+      "sha256": "08ec125fa3c87dee92d91ebb0c1bc2c3bf71c7fdb5956395937b01f052b80f4f"
+    },
+    {
+      "path": "restaurants.js",
+      "sha256": "0dbf588e9d24bb1808e5614210ab1bd1dea1de52ee2dd591c0a1f4a134dfa8fb"
+    },
+    {
+      "path": "seoul-map.js",
+      "sha256": "9ebabaf4da707745ae2b0c3fd5f51846ae62184422af94113fe75d524203d780"
+    },
+    {
+      "path": "star-content-matches.js",
+      "sha256": "050a9a13ceb473bb27b419ea8a0c7f5fe24637891143c0e5c6c414645bc9e09c"
+    },
+    {
+      "path": "star-content.js",
+      "sha256": "def91d2739a9af93f0468ca0d2e9760d4ad6176461820ab7ba8b0138dd260bf6"
+    },
+    {
+      "path": "star-places.js",
+      "sha256": "75df43cf6c9d7c69debcbca1dfed5594acca6d53b1d6338b975bf7f57b7b3f5f"
+    },
+    {
+      "path": "star-scene-media.js",
+      "sha256": "2de571aecc9f5c9553b76f73c2e02a4586709b3fb057c5d587baa9d452b3258f"
+    },
+    {
+      "path": "style.css",
+      "sha256": "7c7d0920b07c56162c9aef1b08825aa4f94772ee8425bc39be3265dadd08a491"
+    },
+    {
+      "path": "venue-media.js",
+      "sha256": "d17bb27b51f00f5e57798eba864b68500e21f0919571e0868c277ad540501951"
+    },
+    {
+      "path": "venue-photos.js",
+      "sha256": "27e5ef581b234ba0ad63792dbae50a9d697b028bfa134448e0154f2b5d26b1d0"
+    },
+    {
+      "path": "assets/app-icon.svg",
+      "sha256": "374eb57af9e9e6cfb38f5618bba5d42d850b4c390475b93c121d59736dbee27a"
+    },
+    {
+      "path": "assets/food-grid.png",
+      "sha256": "43dfad6f7e3ca0b6ee95600da0cd94ed82f5f5db6928a3d4f469a3fd9e7dac98"
+    },
+    {
+      "path": "assets/roombap-logo.png",
+      "sha256": "6fb94256919214a7fd00f9a2d234667746a7cd604edd52d9f607c15aacb3f3bb"
+    },
+    {
+      "path": "assets/story-reference.png",
+      "sha256": "a743d5acd56f49f046b7296a594d876e340fc9cf153c5ee18d0a0c1913d30153"
+    },
+    {
+      "path": "assets/categories/bbq-grilled.jpg",
+      "sha256": "303191a6bf01d1b1480d16db77a4e5af606f566ff7f5f5faf396a2177b09aacc"
+    },
+    {
+      "path": "assets/categories/chicken-fried-leg.jpg",
+      "sha256": "84554a6246ce7a4f38782d4695bff0f09f8d80e721027c71dbe7ea0aa9316753"
+    },
+    {
+      "path": "assets/categories/chinese-jjajangmyeon.jpg",
+      "sha256": "fcdea06e5e4b8ec33a0f045b3fdebc8e76036f55770d7b030c7949451713e9c7"
+    },
+    {
+      "path": "assets/categories/rice-bibimbap.jpg",
+      "sha256": "64f9db1e86e782b19c81508219209bdfc67cb84c8e6ca4851b819dc02bc21164"
+    },
+    {
+      "path": "assets/categories/soup-jjigae.jpg",
+      "sha256": "9522b4f3da277d02e2ea0a1ae549926d7d106f7af4e665a2a2e4cfb666b322ea"
+    },
+    {
+      "path": "assets/categories/street-food.jpg",
+      "sha256": "f78c204af1033cee68d84d9c4fd9ab4e3038d8f04047d9db6cad20f911e3a7fb"
+    },
+    {
+      "path": "assets/categories/sushi-platter.jpg",
+      "sha256": "5511270d6986096931341c2575c4684ea41764f7b79e558d32682c1279d5a4e8"
+    },
+    {
+      "path": "assets/local-discovery/amma-2.jpg",
+      "sha256": "354826634a9c39e56d68b2d2d2252a5cd429d657a1fa416610cf5b8d0d312f0f"
+    },
+    {
+      "path": "assets/local-discovery/delhi-4.jpg",
+      "sha256": "b9bc40fb2ac9db1fbb752ae87d36a29d12b27f9f5d1ae3597426a838047ce788"
+    },
+    {
+      "path": "assets/local-discovery/dubai-cookie-photo.jpg",
+      "sha256": "f4692c3470d7134dc3d753a76ef3920069c571dc0e4ff7bb8b32fe2813fbb568"
+    },
+    {
+      "path": "assets/local-discovery/han-fruit-mochi.jpg",
+      "sha256": "8f74b40d7d9bc479a0a7fc866d0ccb5eb1d04e491978084d4cbe8554c72c26da"
+    },
+    {
+      "path": "assets/local-discovery/jyoti.jpg",
+      "sha256": "6d5c62db77cead053b779607e2e4f698168c46ff224bad1a43e2305967850c53"
+    },
+    {
+      "path": "assets/local-discovery/olgi.png",
+      "sha256": "5073bc117eecf85a9761cfef7597ee5d7d1032f86a771be5c4f474cf93bc0dbf"
+    },
+    {
+      "path": "assets/local-discovery/plant.jpg",
+      "sha256": "d866f539c453712ad5a3d373d4edeff618afebfcb33e19bbe93bcb5cdaca40a4"
+    },
+    {
+      "path": "assets/local-discovery/poke.webp",
+      "sha256": "ce69ac3cd172fe969e1af0ec57466b6efd0ce4857db7f7516ea58b561c391fae"
+    },
+    {
+      "path": "assets/local-discovery/salady.jpg",
+      "sha256": "65fb18515849c9cd1936f21a20abd0dc98a94504cc0426e8cef465fd3c23080c"
+    },
+    {
+      "path": "assets/local-discovery/slow.webp",
+      "sha256": "d9010b0306f59961535ef83819d6332a93d52b914aeae8e90dcf5dbb822b8e3f"
+    },
+    {
+      "path": "assets/local-discovery/slunch-1.jpg",
+      "sha256": "7aadb41ea15c13301532a64144afdcaa05e665aa83f2a851c68fedb2d7e30e6a"
+    },
+    {
+      "path": "assets/local-discovery/stacks-2.webp",
+      "sha256": "00a145066360c1eb70dff4562b8eea1e306c90b2922d41fcee47928a8e281c20"
+    },
+    {
+      "path": "assets/local-discovery/yeti-2.jpg",
+      "sha256": "5086446d47cec127a9cbb7b8dc28573a56223545e80ed61307112f5e050f84ad"
+    },
+    {
+      "path": "assets/restaurant-foods/dosan.jpg",
+      "sha256": "6e00e8adaeee27c2f23631d90b51be5cd2c2fe1b9b9de35387243015d4fc709e"
+    },
+    {
+      "path": "assets/restaurant-foods/geumdwaeji.jpg",
+      "sha256": "1b085c529721c1e83f59fd7764cd0e883bf819cbdc92b90d7dc53fb0b27b52e7"
+    },
+    {
+      "path": "assets/restaurant-foods/place-bbq-1.jpg",
+      "sha256": "9862b4314a1ef20827827ed07d5002af23e6399d540e5f1f3bd6fe55813becfb"
+    },
+    {
+      "path": "assets/restaurant-foods/place-bbq-2.webp",
+      "sha256": "105efe53c3b7f1a1e518abdc3918ff4766a89a646134006970a857a5c0c0c220"
+    },
+    {
+      "path": "assets/restaurant-foods/place-bbq-3.webp",
+      "sha256": "81cb4cb3debf2ef8491bdf5b8ea553f179cf88c389cebfdb5c4deb8e9a2eb8d2"
+    },
+    {
+      "path": "assets/restaurant-foods/place-bbq-4.webp",
+      "sha256": "08d8791487154d905066e4a326b6fc2e4cf175c4a27027ef9c867ea3f4c53ee4"
+    },
+    {
+      "path": "assets/restaurant-foods/place-bbq-5.jpg",
+      "sha256": "50fa8a7945a902aff031b4122e3f5bdb97a35973b420777a026a505a59026f51"
+    },
+    {
+      "path": "assets/restaurant-foods/place-chicken-1.jpg",
+      "sha256": "0c7de62b42dce56fbe6e634529bcbee9d0ce43878f78403d1a7a1f60fea6acd7"
+    },
+    {
+      "path": "assets/restaurant-foods/place-chicken-2.webp",
+      "sha256": "e0f94cb370f4604cf133cfb3f5e8d7e5399552908b98e78ec0d565ce26b149a1"
+    },
+    {
+      "path": "assets/restaurant-foods/place-chicken-3.jpg",
+      "sha256": "a12167056838f0eb4f31697d476206fc687a4dc8e8b245a815b430656872ff4e"
+    },
+    {
+      "path": "assets/restaurant-foods/place-chicken-4.webp",
+      "sha256": "883a0a8274f0b4ce91692d2df9911c64f414f383b9bce25dadaa65f589d1714e"
+    },
+    {
+      "path": "assets/restaurant-foods/place-chicken-5.png",
+      "sha256": "507ae72e37e5af1fa833ae19bcc51b00575d0fe9c1bd1d922a41a7132a66094b"
+    },
+    {
+      "path": "assets/restaurant-foods/place-dessert-1.jpg",
+      "sha256": "1f0212004a567fb27f919391e79c24ae539a6769cf048fe5eac03f2146eeb9ee"
+    },
+    {
+      "path": "assets/restaurant-foods/place-dessert-2.jpg",
+      "sha256": "446b4221d5ce7a3425267a09d5e6f240757074a1d469879f74da6cfbd6c58118"
+    },
+    {
+      "path": "assets/restaurant-foods/place-dessert-3.png",
+      "sha256": "391d763b35b251470c43cf23919e54fe839c747473791fe650f5f20881092d02"
+    },
+    {
+      "path": "assets/restaurant-foods/place-dessert-4.jpg",
+      "sha256": "bc662703e0bf01c6587082144c6e35cdda95896599e82c2c3e35aec537fcb745"
+    },
+    {
+      "path": "assets/restaurant-foods/place-dessert-5.webp",
+      "sha256": "96feab5e8a20defefc0261740ea6afd4d9d6dee0e2cdb2d0cff84bb671e3e17f"
+    },
+    {
+      "path": "assets/restaurant-foods/place-dumplings-1.jpg",
+      "sha256": "f326cb382a9c9199055b56f6f71bc3ce772b49db915510485e92c9ba37dc8cab"
+    },
+    {
+      "path": "assets/restaurant-foods/place-dumplings-2.webp",
+      "sha256": "0fe0a48a8a5d53d9ad4185bb6bed3935791fadcc59c52c8bd25d9667454ee700"
+    },
+    {
+      "path": "assets/restaurant-foods/place-dumplings-3.jpg",
+      "sha256": "172e75e81338f3dd9ae787e06a98f69a043d74808c6f0b510677391d7c98e9f4"
+    },
+    {
+      "path": "assets/restaurant-foods/place-dumplings-4.webp",
+      "sha256": "7889d8db2b7253a6ee0dc790338ff1c4000c63b3a2a044a8c12e53c29736bd7f"
+    },
+    {
+      "path": "assets/restaurant-foods/place-dumplings-5.webp",
+      "sha256": "f876c8adc70024fcaf83deebda5487c24b49c122b9b0453afcfa5264cad7543d"
+    },
+    {
+      "path": "assets/restaurant-foods/place-noodles-1.webp",
+      "sha256": "7c2420169a807e494ee7df4636a3ead2893f75da3150a2e7dddb91222e1e725e"
+    },
+    {
+      "path": "assets/restaurant-foods/place-noodles-2.jpg",
+      "sha256": "0b0c375287358ed9f2f94d9c090c06d7c130cba034b8675721fa27ddc78370ff"
+    },
+    {
+      "path": "assets/restaurant-foods/place-noodles-3.webp",
+      "sha256": "076e5bc50c5f1fe9cb87f8fed22e1e638f4c125c7bb1f0c313558d788cc025be"
+    },
+    {
+      "path": "assets/restaurant-foods/place-noodles-4.webp",
+      "sha256": "67eb4933cf712ba81d2db38003ec0e8169246cfe67ae5d33588beb7f27c35b58"
+    },
+    {
+      "path": "assets/restaurant-foods/place-noodles-5.jpg",
+      "sha256": "005833f14000285b4715b45553fcd9307371e18be01f15c042833ab39b222bd6"
+    },
+    {
+      "path": "assets/restaurant-foods/place-rice-1.webp",
+      "sha256": "0dc530e6dbb35ba8dec147779aaa64d35d8d8c9948fdb1b356b0515932433468"
+    },
+    {
+      "path": "assets/restaurant-foods/place-rice-2.webp",
+      "sha256": "da45c5f80a512565c6f724b217cfd0f40f2c7e2387620a8e561148d9b677814a"
+    },
+    {
+      "path": "assets/restaurant-foods/place-rice-3.webp",
+      "sha256": "9df31787164c00641e128a95b0f43e33003051645fa0a32dcb2d45c627269adf"
+    },
+    {
+      "path": "assets/restaurant-foods/place-rice-4.webp",
+      "sha256": "d98195371f5f651cfb3d88f3075673066fda32882d4d464611dd484ca26e1fe1"
+    },
+    {
+      "path": "assets/restaurant-foods/place-rice-5.jpg",
+      "sha256": "95b249afb3667c7b573677fe0aca0bd83712a45c38487069c34a5c9ff0d8f1b5"
+    },
+    {
+      "path": "assets/restaurant-foods/place-soup-1.jpg",
+      "sha256": "c4522001fdf957054298f30163cea14573e26c66d08cd4c958aa90b0df7c04cd"
+    },
+    {
+      "path": "assets/restaurant-foods/place-soup-2.webp",
+      "sha256": "e4d98a599c204f4cabd7359fbe9c0076025e15d47a2b37d2b05524d7bb50f8e9"
+    },
+    {
+      "path": "assets/restaurant-foods/place-soup-3.webp",
+      "sha256": "c41d18bc3955334825bc580efb0fad29bc4b9689038fba1bc8e81982b9d9180a"
+    },
+    {
+      "path": "assets/restaurant-foods/place-soup-4.webp",
+      "sha256": "1b2cd0aae364db4b8334fdbad5f1ef3986976ccac88dbb13ebd261cf7d51ea15"
+    },
+    {
+      "path": "assets/restaurant-foods/place-soup-5.jpg",
+      "sha256": "95bef19eeec90e574c2befecdf860b8fd66e8666272ddbfb3e71834aeedf31e2"
+    },
+    {
+      "path": "assets/restaurant-foods/place-street-food-1.jpg",
+      "sha256": "3dab9f0fc5960f44fcf3e16eb5dd1d48276746d3f07de72c35b7eaee4b1fb85a"
+    },
+    {
+      "path": "assets/restaurant-foods/place-street-food-2.webp",
+      "sha256": "3dea2767219d3a4c4ee65c997ca36435f294f2fe387e521ee1c23a47588661d1"
+    },
+    {
+      "path": "assets/restaurant-foods/place-street-food-3.jpg",
+      "sha256": "71d8391216b8eeded76edd5eee090e2ada43688f704a3a10177b8fa5ea03c9a2"
+    },
+    {
+      "path": "assets/restaurant-foods/place-street-food-4.jpg",
+      "sha256": "d673fcbb49f40df7fa2e768a0a3df35a5f8e43db9e6c407109fbc83dc960bf96"
+    },
+    {
+      "path": "assets/restaurant-foods/place-street-food-5.jpg",
+      "sha256": "8083120073bd40a882102821282b20c0cdc90de45ae289783800441296c5db2f"
+    },
+    {
+      "path": "assets/restaurant-foods/suyeon.jpg",
+      "sha256": "c64a26acb67ac19c937eac0b3dfabe8021675b766b9ca0338fea3c563a9c60e1"
+    },
+    {
+      "path": "assets/restaurant-foods/unplugged.webp",
+      "sha256": "8bfcd3b6d6ed3c1c7e55234bb9054b04af67ab55bb04e1c78feaa545b27b60a9"
+    },
+    {
+      "path": "assets/restaurant-foods/wooga.jpg",
+      "sha256": "278248d250d1b2f8278aa45f9a50bafdd985a0a107183fb9d399507a654ef911"
+    },
+    {
+      "path": "assets/restaurant-foods/yoojung.webp",
+      "sha256": "8d7f297d9d3f0dd8401af04222a7b60e5b3a5ecbbcde84e121689ab0062395d3"
+    },
+    {
+      "path": "assets/star-foods/chicken.jpg",
+      "sha256": "13e33a979e6a07f0975a63f7d2fe3c39ab15a38cf2518306794643ebbf9c76d6"
+    },
+    {
+      "path": "assets/star-foods/egg.jpg",
+      "sha256": "f26d7624e56da12765ce0e13b6f4be0e3181db339985489d00507f6b4f838e8b"
+    },
+    {
+      "path": "assets/star-foods/gimbap.jpg",
+      "sha256": "2f960dc7b1581eac670a0ae3df6fdfa6efd8fe3f4c4cab761e224dd3d7fd97e6"
+    },
+    {
+      "path": "assets/star-foods/gopchang.jpg",
+      "sha256": "2bb2be3a62773a2aae2237d4a48e5ef3ae60febc128ba4e80bf74341eed1c5a2"
+    },
+    {
+      "path": "assets/star-foods/hotdog.jpg",
+      "sha256": "e6927d95957a9fbf89c0f8f3aefc9b075a995bb651b6ee3bcac11cf8b141f1d8"
+    },
+    {
+      "path": "assets/star-foods/soup.jpg",
+      "sha256": "e751f3975fb94f61ca3ce0a06a2a22ff79e7c76a1fc1c964867a3d1b908ee9b3"
+    },
+    {
+      "path": "assets/star-foods/tteokbokki.jpg",
+      "sha256": "08e81bfc16a458cb2ca02d1f2d5f93f539efb60a832ffbee45785eadd045d19a"
+    },
+    {
+      "path": "assets/star-scenes/hp-egg-sandwich.jpg",
+      "sha256": "a31e13b71442288cbe986445c77c2483355b7b0fa90dfe171cababed565870af"
+    },
+    {
+      "path": "assets/star-scenes/hwasa-gopchang.jpg",
+      "sha256": "63c5607a8898f91e3f66877a03626266d8bc0e9019b44f075bb7625dac7e8589"
+    },
+    {
+      "path": "assets/star-scenes/jinnys-street-food.jpg",
+      "sha256": "6a378efdc4bd857ca56f9fe1e9c186b6cb1d7b0a46bf31217cfff8ab73c47fc6"
+    },
+    {
+      "path": "assets/star-scenes/kpdh-corndog.png",
+      "sha256": "95898c6087f7651c80b1eefb777be44fbe3d040ab27c5c8b11de8b38fdae083a"
+    },
+    {
+      "path": "assets/star-scenes/kpdh-seolleongtang.png",
+      "sha256": "acbdca55ad7d7cb62702a68d2ea190406f4c622e9bc794686172f3664e224521"
+    },
+    {
+      "path": "assets/star-scenes/my-love-from-the-star.jpg",
+      "sha256": "b288d9b84b25f39c6d47164935e8949499156deadd89dc62c209fe6d3c458f48"
+    },
+    {
+      "path": "assets/star-scenes/woo-gimbap.jpg",
+      "sha256": "e233930f2ce533509a2837df73778c4987e77feaa3a6054ae4fcec1de637596b"
+    },
+    {
+      "path": "assets/venues/dosan.jpg",
+      "sha256": "d057ba51d599646adf03be30cd51d2b4ecf507331e930e23b68d3b095a5519e6"
+    },
+    {
+      "path": "assets/venues/geumdwaeji.jpg",
+      "sha256": "9166b888dd6f9405230cfb13f9ab8b4820c40865c253632717c2a14fbbc5c44b"
+    },
+    {
+      "path": "assets/venues/place-bbq-1.jpg",
+      "sha256": "cc865f89578cb9a749dc568c23a28ce3d055cf8991590f9136b523ca1938d59c"
+    },
+    {
+      "path": "assets/venues/place-bbq-2.jpg",
+      "sha256": "fdf02089d12ae7a30a16d43955467afb45c8d38f2ee2de59583bf02f3f646480"
+    },
+    {
+      "path": "assets/venues/place-bbq-3.jpg",
+      "sha256": "ff052a04dd5c9a063f157389606c7a13f7071ebc2495ab6217daafd31896c51f"
+    },
+    {
+      "path": "assets/venues/place-bbq-4.jpg",
+      "sha256": "7320bfffc500ed161e03ff00f8ef07f3edf66127669db0ea9f6b3549f64dda9c"
+    },
+    {
+      "path": "assets/venues/place-bbq-5.jpg",
+      "sha256": "f8a1ddba7cde9ea1823a6ec315f64a7e4a911f095dc760832f5cc7f4bd6fbb31"
+    },
+    {
+      "path": "assets/venues/place-chicken-1.png",
+      "sha256": "2712bf3da96913b2611580a805c48a75351877428fdfefe94363e2c6c404d344"
+    },
+    {
+      "path": "assets/venues/place-chicken-2.jpg",
+      "sha256": "4bebd9f4bd04ec35d916da6ea3d99dab760d5737729caeae02da9fcafc87c688"
+    },
+    {
+      "path": "assets/venues/place-chicken-3.jpg",
+      "sha256": "c8101f835da0239e394fe37142c843f86f5f577047172ba9f9e4d906115e6469"
+    },
+    {
+      "path": "assets/venues/place-chicken-4.jpg",
+      "sha256": "3b5470aa855dd477f531d4c2b130ce8623ca4dcf1b2a8b515dc48ddb74900fcc"
+    },
+    {
+      "path": "assets/venues/place-chicken-5.jpg",
+      "sha256": "8ceaacce57f0db3bec1a04d43d9967fcf98576357f6045834392ee33274027f7"
+    },
+    {
+      "path": "assets/venues/place-dessert-1.jpg",
+      "sha256": "c53fc756518cdbf38897b11dd1fa754cb092cadd3bd7cef57275e81a3f1502eb"
+    },
+    {
+      "path": "assets/venues/place-dessert-2.jpg",
+      "sha256": "bddae8a7118a662aa3552f7436e8dab2558331bbd86da0093a7dc594413ca18c"
+    },
+    {
+      "path": "assets/venues/place-dessert-3.jpg",
+      "sha256": "3738ddb07a4ee3d31db20cb43e608d75f91b1d37689ac2f589f656eac2454b7a"
+    },
+    {
+      "path": "assets/venues/place-dessert-4.jpg",
+      "sha256": "e9b31b46fbb3e55c97e526d4019efaca4f2aee4495339032e582aa0f16a866f3"
+    },
+    {
+      "path": "assets/venues/place-dessert-5.png",
+      "sha256": "c2dfd8ba0b781c8dfa1a2d678e6378d59a3be1f74850a9ea87bd090ee84f7572"
+    },
+    {
+      "path": "assets/venues/place-dumplings-1.jpg",
+      "sha256": "1c76dc6c984a2a83519140168a7e6ece224cb232555428e89a6f7585e9d454fd"
+    },
+    {
+      "path": "assets/venues/place-dumplings-2.jpg",
+      "sha256": "31fe30b2697b0e3bdfc41ee76cc7956e3235a7e49915ffcab25574157207f20e"
+    },
+    {
+      "path": "assets/venues/place-dumplings-3.jpg",
+      "sha256": "65dfc66a917eaad33210ae6102f46cf4065d579364fe819522f3eb53b278ecc1"
+    },
+    {
+      "path": "assets/venues/place-dumplings-4.jpg",
+      "sha256": "7b720b2fdcb7ed8e4f3bb8848bbf9b4d3635c1e7bf8ef1e034c13478de42412e"
+    },
+    {
+      "path": "assets/venues/place-dumplings-5.jpg",
+      "sha256": "31a44daa7a9c7746791aebcab99b6bfb830c776b5fb9c537298fa2997cfaade4"
+    },
+    {
+      "path": "assets/venues/place-noodles-1.jpg",
+      "sha256": "6c31d43d12bf4b549986f59072afa0ca6644119fff55519f291bc357284709e3"
+    },
+    {
+      "path": "assets/venues/place-noodles-2.jpg",
+      "sha256": "b982a39f6949d7873c280cccea34752900ad656fa82f63959c81bc6ee6d59d51"
+    },
+    {
+      "path": "assets/venues/place-noodles-3.jpg",
+      "sha256": "fadc95d368400b8ac70a605db771486dd0aba18d13ccea211e715fa69177e7a8"
+    },
+    {
+      "path": "assets/venues/place-noodles-4.jpg",
+      "sha256": "65a53641eab61d02d774d88e4b5e02ca4291d6f104cbb4edb4dc6baf5c2a2a2c"
+    },
+    {
+      "path": "assets/venues/place-noodles-5.jpg",
+      "sha256": "56536a2fc4524234a83b33146d4c583fea0f919616fc3623c9d1c2fca69d9eef"
+    },
+    {
+      "path": "assets/venues/place-rice-1.jpg",
+      "sha256": "d7127c0497b6dacf2d3002c5dfe4756e69f81f74e6acf97070706fd8ba69f632"
+    },
+    {
+      "path": "assets/venues/place-rice-2.jpg",
+      "sha256": "965ea7c76fc5bf66362982c1e2d531ddb17b7739e59e851872746a6a6fc62841"
+    },
+    {
+      "path": "assets/venues/place-rice-3.jpg",
+      "sha256": "f63d5297395c1dc8da09da0da221a2835fb31f5d03d949f39ae93c3b718caccc"
+    },
+    {
+      "path": "assets/venues/place-rice-4.jpg",
+      "sha256": "ba9f3091068e76f8ea873ac7c4c619dae98ef132906f58dacce482f069638dc5"
+    },
+    {
+      "path": "assets/venues/place-rice-5.jpg",
+      "sha256": "049296f0d49615c47d3342d2c388df16456246e191c5ebc6b3d0b75d36a85f31"
+    },
+    {
+      "path": "assets/venues/place-soup-1.jpg",
+      "sha256": "9bd8e17ccce359a7895c529e8f4bde40eda76e8953ce73400a762feb9c8621a4"
+    },
+    {
+      "path": "assets/venues/place-soup-2.jpg",
+      "sha256": "cce4be4e541e32433a25c705783997648a9abd8f34e2a4ab0c627015abea62e2"
+    },
+    {
+      "path": "assets/venues/place-soup-3.jpg",
+      "sha256": "dba55450060573f0bcb901bfc565e990a1f78e1b5a1e4276ce332f52f9f196fa"
+    },
+    {
+      "path": "assets/venues/place-soup-4.jpg",
+      "sha256": "a7de4dc0887c02dbb5a10574f33ffd3bc2d9544b24dc1b54333bd277bf546f68"
+    },
+    {
+      "path": "assets/venues/place-soup-5.jpg",
+      "sha256": "4fb4bb61c1b9cb41c27937ec596e82e95ed56ff1fad614670ad9542a8f2ef054"
+    },
+    {
+      "path": "assets/venues/place-street-food-1.jpg",
+      "sha256": "79189c2da68bb781e3233909c1e9d2629206b744e0569dfcce9e4f0dbaa975d8"
+    },
+    {
+      "path": "assets/venues/place-street-food-2.jpg",
+      "sha256": "3c48ed9d50a0025126f68e1ff3cdf56c75160f0d0bc142205e2ed518c6396eba"
+    },
+    {
+      "path": "assets/venues/place-street-food-3.jpg",
+      "sha256": "a7ac40c77230db75e0925c9178bf2ae0ad3e7dd16fc04fcee7f3df443c9fa2d8"
+    },
+    {
+      "path": "assets/venues/place-street-food-4.jpg",
+      "sha256": "d814406309b46efc267486637727c1103e7a90775efd05c1e778a05bba9a7113"
+    },
+    {
+      "path": "assets/venues/place-street-food-5.jpg",
+      "sha256": "54ce4fc3c4f6caaa45ea8d27f48fa1af7357b223d97d9edba09103ceda5f1dd0"
+    },
+    {
+      "path": "assets/venues/suyeon.jpg",
+      "sha256": "b12ac76f2ada7ea252f8f83081f1abdf056c4ddbd8aa4ff390435c19697d30f9"
+    },
+    {
+      "path": "assets/venues/unplugged.jpg",
+      "sha256": "dbc9f6fb971915f3d7cda55a4b8ed17f7489a0020d812ecd494ad1ef9badc907"
+    },
+    {
+      "path": "assets/venues/wooga.jpg",
+      "sha256": "2852aace8e454eacbc2622c48fe129394d860bae4273dd9d245b406fdc6764b7"
+    },
+    {
+      "path": "assets/venues/yoojung.jpg",
+      "sha256": "203fc5d6d599f68c324db761c450c39c5923ecb3b8a9ad68833b340e80f75349"
+    },
+    {
+      "path": "vendor/leaflet-maplibre-gl.js",
+      "sha256": "c7c0a383f0386f93c8b6584d71e32296e25061887cf15c95bb58112d17db6058"
+    },
+    {
+      "path": "vendor/leaflet.css",
+      "sha256": "a7837102824184820dfa198d1ebcd109ff6d0ff9a2672a074b9a1b4d147d04c6"
+    },
+    {
+      "path": "vendor/leaflet.js",
+      "sha256": "db49d009c841f5ca34a888c96511ae936fd9f5533e90d8b2c4d57596f4e5641a"
+    },
+    {
+      "path": "vendor/maplibre-gl.css",
+      "sha256": "792ac997dcf6ae6f643eb4e2dee4630c85e7056526bd8fb85ffe83c67d6c41b4"
+    },
+    {
+      "path": "vendor/maplibre-gl.js",
+      "sha256": "b5a34e6930ff937dbbb9eec8892cffb80ba473cce88ae5ca8c4654432f5f0ebc"
+    }
+  ],
+  "note": "Original public app assets retained unchanged; the hosting-injected Cloudflare challenge script is excluded.",
+  "main_html_sha256": "4d7d9441fd5f0d5be60932f049f1ac68d8c360854d8dfb0316d06cb74d66a885",
+  "addition": "A lower-right AI launcher and a centered modal outside the original main layout; meal finding and K-food trends tabs."
+}

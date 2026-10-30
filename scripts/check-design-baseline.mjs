@@ -1,0 +1,15 @@
+import assert from 'node:assert/strict';
+import {readFile} from 'node:fs/promises';
+import {createHash} from 'node:crypto';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const manifest=JSON.parse(await readFile(path.join(root,'docs/design-baseline.json'),'utf8'));
+const hash=data=>createHash('sha256').update(data).digest('hex');
+for(const asset of manifest.assets)assert.equal(hash(await readFile(path.join(root,'public',asset.path))),asset.sha256,`Original design asset changed: ${asset.path}`);
+const page=await readFile(path.join(root,'server/page.html'),'utf8');
+assert.equal(hash(page.match(/<main\b[\s\S]*?<\/main>/)[0].replace(/\r\n/g,'\n')),manifest.main_html_sha256,'The original main layout changed');
+assert.equal((page.match(/id="ai-launcher"/g)||[]).length,1);
+assert.equal((page.match(/id="ai-dialog"/g)||[]).length,1);
+assert.ok(!page.match(/<main\b[\s\S]*?<\/main>/)[0].includes('id="ai-discovery"'));
+console.log(JSON.stringify({original_assets_unchanged:manifest.assets.length,main_layout_unchanged:true,ai_dialog_outside_original_layout:true}));

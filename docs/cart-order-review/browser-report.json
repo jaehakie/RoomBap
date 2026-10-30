@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "checks": [
+    "X cancel preserves the original cart, quantity and options",
+    "Escape cancel preserves the original cart",
+    "Reload during editing preserves the last saved cart",
+    "Saving replaces the existing line once and recalculates options and total",
+    "Saving into identical options merges lines without duplicate quantities",
+    "Over-limit edits preserve all items and can be corrected before saving",
+    "One demo checkout creates one full-UUID order; an old payment callback is ignored",
+    "All demo statuses work and the full order ID fits the mobile dialog",
+    "Two orders created with the same timestamp still receive different IDs",
+    "Order history and status persist after reload",
+    "Edited quantities recalculate the minimum order and remain usable at 320px"
+  ],
+  "uncaughtErrors": [],
+  "preview": "http://127.0.0.1:8793",
+  "demoOnly": true,
+  "noModelCalls": true
+}

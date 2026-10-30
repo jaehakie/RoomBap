@@ -1,0 +1,73 @@
+{
+  "passed": true,
+  "checks": [
+    "en/390: all four survey steps show server-use notice; language options, saving and allergy guidance remain intact",
+    "en/390: localized help explains connected AI, simulated checkout and allergy limits",
+    "en/390: both AI input notices are linked and fit; requests remain user-triggered with unchanged preference/question payloads",
+    "en/390: skipping draft language changes keeps saved language and notices",
+    "ja/390: all four survey steps show server-use notice; language options, saving and allergy guidance remain intact",
+    "ja/390: localized help explains connected AI, simulated checkout and allergy limits",
+    "ja/390: both AI input notices are linked and fit; requests remain user-triggered with unchanged preference/question payloads",
+    "ja/390: skipping draft language changes keeps saved language and notices",
+    "zh/390: all four survey steps show server-use notice; language options, saving and allergy guidance remain intact",
+    "zh/390: localized help explains connected AI, simulated checkout and allergy limits",
+    "zh/390: both AI input notices are linked and fit; requests remain user-triggered with unchanged preference/question payloads",
+    "zh/390: skipping draft language changes keeps saved language and notices",
+    "en/320: all four survey steps show server-use notice; language options, saving and allergy guidance remain intact",
+    "en/320: localized help explains connected AI, simulated checkout and allergy limits",
+    "en/320: both AI input notices are linked and fit; requests remain user-triggered with unchanged preference/question payloads",
+    "en/320: skipping draft language changes keeps saved language and notices",
+    "ja/320: all four survey steps show server-use notice; language options, saving and allergy guidance remain intact",
+    "ja/320: localized help explains connected AI, simulated checkout and allergy limits",
+    "ja/320: both AI input notices are linked and fit; requests remain user-triggered with unchanged preference/question payloads",
+    "ja/320: skipping draft language changes keeps saved language and notices",
+    "zh/320: all four survey steps show server-use notice; language options, saving and allergy guidance remain intact",
+    "zh/320: localized help explains connected AI, simulated checkout and allergy limits",
+    "zh/320: both AI input notices are linked and fit; requests remain user-triggered with unchanged preference/question payloads",
+    "zh/320: skipping draft language changes keeps saved language and notices"
+  ],
+  "uncaughtErrors": [],
+  "viewports": [
+    390,
+    320
+  ],
+  "languages": [
+    "en",
+    "ja",
+    "zh"
+  ],
+  "modelCalls": 0,
+  "postRequestsStubbed": true,
+  "requestChecks": [
+    {
+      "lang": "en",
+      "width": 390,
+      "requests": 3
+    },
+    {
+      "lang": "ja",
+      "width": 390,
+      "requests": 3
+    },
+    {
+      "lang": "zh",
+      "width": 390,
+      "requests": 3
+    },
+    {
+      "lang": "en",
+      "width": 320,
+      "requests": 3
+    },
+    {
+      "lang": "ja",
+      "width": 320,
+      "requests": 3
+    },
+    {
+      "lang": "zh",
+      "width": 320,
+      "requests": 3
+    }
+  ]
+}

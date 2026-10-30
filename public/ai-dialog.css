@@ -1,0 +1,68 @@
+/* Only AI-specific elements are styled here. Original style.css is preserved. */
+.ai-launcher {
+  position: fixed;
+  right: max(14px, calc((100vw - 430px) / 2 + 14px));
+  bottom: calc(80px + env(safe-area-inset-bottom));
+  z-index: 6;
+  width: 46px;
+  height: 46px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  border: 2px solid #fff;
+  border-radius: 16px;
+  color: #fff;
+  background: var(--coral, #ff514d);
+  box-shadow: 0 4px 15px #b8473d33;
+  font-size: 12px;
+  font-weight: 800;
+  cursor: pointer;
+}
+.ai-launcher svg { width: 17px; height: 19px; }
+.ai-launcher:hover { background: #ed4945; }
+.ai-launcher:focus-visible { outline: 3px solid #318a74; outline-offset: 4px; }
+body:has(dialog[open]) .ai-launcher { visibility: hidden; }
+#ai-dialog {
+  width: min(520px, calc(100vw - 28px));
+  max-width: min(520px, calc(100vw - 28px));
+  max-height: calc(100dvh - 40px - env(safe-area-inset-top) - env(safe-area-inset-bottom));
+  margin: auto;
+  padding: 0;
+  border: 1px solid #e3ece5;
+  border-radius: 23px;
+  background: #f4faf6;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+#ai-dialog::backdrop { background: #17382d45; backdrop-filter: blur(5px); }
+#ai-close {
+  position: sticky;
+  z-index: 2;
+  top: 10px;
+  float: right;
+  width: 34px;
+  height: 34px;
+  margin: 10px 10px -44px 0;
+  display: grid;
+  place-items: center;
+  border: 1px solid #dce9df;
+  border-radius: 50%;
+  color: #526c60;
+  background: #fff;
+  font-size: 24px;
+  line-height: 1;
+  cursor: pointer;
+}
+#ai-dialog .ai-discovery { margin: 0; padding: 26px 20px 24px; border: 0; border-radius: 0; }
+#ai-dialog .ai-section-heading { padding-right: 30px; }
+#ai-dialog .ai-section-heading h2 { font-size: 24px; line-height: 1.35; }
+#ai-dialog .ai-section-heading { flex-wrap: wrap; gap: 6px 14px; }
+#ai-dialog .ai-query-form { flex-direction: column; }
+#ai-dialog .ai-query-form .primary { width: 100%; }
+#ai-dialog .ai-menu-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+#ai-dialog .ai-source-list a { overflow-wrap: anywhere; }
+@media (max-width: 360px) {
+  #ai-dialog .ai-discovery { padding: 24px 14px 20px; }
+  #ai-dialog .ai-menu-card { padding: 11px; }
+}

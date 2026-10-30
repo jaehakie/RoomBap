@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "checks": [
+    "Korean survey preferences saved",
+    "Live Claude + multilingual ranking results rendered with matching menu IDs",
+    "Cancel option editing preserves the cart item",
+    "Saving edited options replaces the line without duplication",
+    "AI result → required options → cart → demo checkout → order status",
+    "Live Korean RAG answer, claim citations and source dates rendered",
+    "Trend matching preserves the earlier hard noodle restriction",
+    "Japanese UI and stale-result clearing",
+    "Unsupported dietary restriction blocks recommendations without dropping it",
+    "Mobile 390px layout has no horizontal overflow",
+    "Category browsing and saved restaurants",
+    "Honest Hotel Pick empty state and Star Pick story",
+    "Seoul map and restaurant list opened",
+    "Food culture content list and article",
+    "Help and saved demo order status after reload",
+    "Provider failure shows an error with no fake menu fallback"
+  ],
+  "consoleErrors": [],
+  "liveModels": {
+    "profiler": "claude",
+    "ranking": "catalog_grounded_hybrid_v2",
+    "ragModel": "claude-haiku-5-5"
+  },
+  "demoOrderOnly": true
+}

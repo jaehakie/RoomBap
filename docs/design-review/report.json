@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "checks": [
+    "Original home flow retained; AI is outside the main layout",
+    "Centered popup opens with both tabs and traps keyboard focus",
+    "Escape and backdrop close the popup and return focus",
+    "Real natural-language recommendations open the original menu/options dialog",
+    "Renamed K-food trends tab answers a Dubai cookie question with source links",
+    "390px and 320px layouts preserve the bottom navigation and fit the popup",
+    "Closing cancels pending UI work; provider errors do not generate fake menu cards"
+  ],
+  "uncaughtErrors": [],
+  "preview": "http://127.0.0.1:8793",
+  "liveRecommendationCount": 4,
+  "liveTrendStatus": "answered"
+}
