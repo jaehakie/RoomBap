@@ -2,6 +2,8 @@
 
 **2026 SOGANG AI LAUNCHPAD AI 창업캠프 우수상 수상작**
 
+**[🌐 서비스 실행하기](https://roombap.secretwasp34.chatgpt.site)**
+
 외국인 호텔 투숙객을 위한 AI 음식 추천·한국 유행 음식 안내 및 주문 시연 서비스입니다.
 
 ## 주요 기능
